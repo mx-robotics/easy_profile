@@ -8,6 +8,6 @@ add_library(easy_profile
 
 install(TARGETS easy_profile
         RUNTIME DESTINATION bin
-        LIBRARY DESTINATION usr/lib
-        ARCHIVE DESTINATION lib/static)
+        LIBRARY DESTINATION lib
+        ARCHIVE DESTINATION lib)
 
