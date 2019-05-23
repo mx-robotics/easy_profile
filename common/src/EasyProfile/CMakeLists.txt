@@ -1,4 +1,4 @@
-add_library(easy_profile 
+add_library(easy_profile SHARED
   EasyObjectDictionary.cpp
   EasyProfile.cpp
   EasyProtocol.cpp
