@@ -1,5 +1,5 @@
 # easy_profile
-Easy Profile lib to read IMU data
+Easy Profile lib to read and comunicate with a TransduderM IMU
 
 # License
-For the EasyProfile libaray License please check EasyProfile/License.txt
+For License details on the EasyProfile Lib please check the common/include/EasyProfile/License.txt
