@@ -1,6 +1,4 @@
-#set(CMAKE_POSITION_INDEPENDENT_CODE ON)
-
-add_library(easy_profile
+add_library(easy_profile 
   EasyObjectDictionary.cpp
   EasyProfile.cpp
   EasyProtocol.cpp
@@ -9,5 +7,5 @@ add_library(easy_profile
 install(TARGETS easy_profile
         RUNTIME DESTINATION bin
         LIBRARY DESTINATION lib
-        ARCHIVE DESTINATION lib)
+        ARCHIVE DESTINATION lib/static)
 

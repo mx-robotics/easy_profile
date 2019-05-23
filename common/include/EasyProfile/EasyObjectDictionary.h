@@ -12,6 +12,7 @@
  *                         are done within the EasyObjectDictionary.h and EasyObjectionary.cpp files,
  *                         which can be found using the '[Legacy Support]' keyword.
  *          Aug 02, 2018 - Update comments.
+ *          May 22, 2019 - Update comments. 
  *
  * @attention
  *          *****        DO NOT CHANGE THIS FILE           *****
@@ -19,7 +20,7 @@
  *
  *
  * @attention
- * <h2><center>&copy; COPYRIGHT(c) 2018 SYD Dynamics ApS</center></h2>
+ * <h2><center>&copy; COPYRIGHT(c) 2019 SYD Dynamics ApS</center></h2>
  *
  * Redistribution and use in source and binary forms, with or without modification,
  * are permitted provided that the following conditions are met:

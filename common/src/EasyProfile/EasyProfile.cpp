@@ -1,9 +1,9 @@
 /**
  * EasyProfile.cpp
- * @author COPYRIGHT(c) 2018 SYD Dynamics ApS
+ * @author COPYRIGHT(c) 2019 SYD Dynamics ApS
  * @see    EasyProfile.h for more descriptions.
  */
-#include <EasyProfile/EasyProfile.h>
+#include "../../include/EasyProfile/EasyProfile.h"
 
 
 EasyProfile::EasyProfile(EasyObjectDictionary *eOD_i){

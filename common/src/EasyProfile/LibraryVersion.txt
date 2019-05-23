@@ -1,5 +1,7 @@
 Current Library Version is
 
-	EasyProfile V1-2-4-R2  -  Last updated on Aug 02, 2018. Minor updates on comments.
+	EasyProfile V1-2-5-R2  -  Last updated on May 22, 2019. License information Updated.
 	
+
+        Note: include paths are re-adjusted and therefore different from the standard EasyProfile V1-2-5-R2 library in order to fit into the build environment. Other source code remains unchanged.
 	

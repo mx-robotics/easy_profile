@@ -1,9 +1,9 @@
 /**
  * EasyObjectDictionary.cpp
- * @author COPYRIGHT(c) 2018 SYD Dynamics ApS
+ * @author COPYRIGHT(c) 2019 SYD Dynamics ApS
  * @see    EasyObjectDictionary.h for more descriptions.
  */
-#include <EasyProfile/EasyObjectDictionary.h>
+#include "../../include/EasyProfile/EasyObjectDictionary.h"
 
 
 //------------------------------------------------------------------------

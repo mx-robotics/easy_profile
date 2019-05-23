@@ -12,6 +12,7 @@
  * @version Nov 10, 2014 - Creation
  *          Jul 27, 2016 - Release Version.
  *          Feb 22, 2018 - Regular Update. No functional changes.
+ *          May 22, 2019 - Update comments. 
  *
  * @section Example
  * @code
@@ -32,7 +33,7 @@
  * @endcode
  *
  * @attention
- * <h2><center>&copy; COPYRIGHT(c) 2018 SYD Dynamics ApS</center></h2>
+ * <h2><center>&copy; COPYRIGHT(c) 2019 SYD Dynamics ApS</center></h2>
  *
  * Redistribution and use in source and binary forms, with or without modification,
  * are permitted provided that the following conditions are met:

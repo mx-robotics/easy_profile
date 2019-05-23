@@ -1,9 +1,9 @@
 /**
  * @file   EasyProtocol.cpp
- * @author COPYRIGHT(c) 2018 SYD Dynamics ApS
+ * @author COPYRIGHT(c) 2019 SYD Dynamics ApS
  * @see    EasyProtocol.h for more comments
  */
-#include "EasyProfile/EasyProtocol.h"
+#include "../../include/EasyProfile/EasyProtocol.h"
 
 
 EasyProtocol::EasyProtocol()
